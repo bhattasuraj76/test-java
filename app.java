@@ -1,7 +1,7 @@
 public class Main {
 
   // Create a checkAge() method with an integer variable called age
-  static void checkAge(int age) {
+  static void checkAge(int age, float weight) {
 
     // If age is less than 18, print "access denied"
     if (age < 18) {
