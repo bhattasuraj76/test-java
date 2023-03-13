@@ -1,7 +1,7 @@
-public class CircleTest {
+#public class CircleTest {
 
-    @Test
-    public void testCalculateArea() {
-        //...
-    }
-}
+ #   @Test
+  #  public void testCalculateArea() {
+  #      //...
+  #  }
+#}
