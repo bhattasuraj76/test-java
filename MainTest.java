@@ -1,6 +1,6 @@
 public class CircleTest {
  @Test
-    public void testCalculateArea() {
+    public void calculateArea() {
         //...
     }
 }
